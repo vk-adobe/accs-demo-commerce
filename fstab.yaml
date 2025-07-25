@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/vk-adobe/accs-demo-content-new/
     type: markup
 
 folders:
